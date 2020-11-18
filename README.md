@@ -1,5 +1,6 @@
-# 10th Grade
-10th grade's documents!
+# G10
 
-## Copyright
-Copyright (c) Skool +.
+## License
+Copyright &copy; **SkoolPlus**. All rights reserved.
+
+Licensed under the [CC0](LICENSE) license.
